@@ -1,10 +1,14 @@
 import React from "react"
-
+import Hero from './components/hero/Hero.jsx'
+import Navbar from './components/navbar/Navbar.jsx'
 function App() {
  
   return (
    <>
-   react</>
+   <Navbar></Navbar>
+   <Hero/> 
+   
+   </>
   )
 }
 
