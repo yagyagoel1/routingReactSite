@@ -7,7 +7,7 @@ const Navbar = () => {
     const[nav,setNav]= useState(false)
     const handleNav = ()=>setNav(!nav);
     return (
-        <div className="navbar">
+        <div className="navbar" name ="top">
             <div className="container">
                 <div className="logo">
                     <SiDatabricks className="icon" />
