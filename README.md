@@ -1,8 +1,8 @@
-# React + Vite
+# Routing React Site
+In this project I have created a frontend responsive website using vite and react 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In this project I have dove into 
+* Basic react and  state in it
+* routing in react
+* vanilla css and how to make the site responsive without any external css library
+* learned about react-icon another library for react icons 
