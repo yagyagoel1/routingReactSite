@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./ContactStyles.css"
  const Contact = ()=>{
     return (
         <div className="contact">
@@ -20,7 +20,7 @@ import React from "react";
                         </div>
                         <div>
                             <label >Message</label>
-                            <input rows ='10' placeholder="Enter your Message"/>
+                            <textarea rows ='10' placeholder="Enter your Message"/>
                             
                         </div>
                     </form>
@@ -29,3 +29,4 @@ import React from "react";
         </div>
     )
  }
+ export default Contact
